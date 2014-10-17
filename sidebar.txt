@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nuw:home|Door43 (nuw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nuw|d43-nuw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nuw/archive/master.zip|d43-nuw.zip]]
+
+**Recent Changes**
+{{changes>ns = nuw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nuw|Ethnologue data]]
+
